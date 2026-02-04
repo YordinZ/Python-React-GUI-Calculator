@@ -66,3 +66,15 @@ Desde la carpeta raíz:
 
 ```bash
 python main.py
+```
+
+---
+
+## ▶️ Ejecución local de la Demo Web
+
+Para ejecutar la demo web de forma local es necesario tener Node.js y npm instalados.
+
+```bash
+npm install
+npm run dev
+```
