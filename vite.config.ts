@@ -3,7 +3,7 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/PYTHON-REACT-GUI-CALCULATOR/",
+  base: "/Python-React-GUI-Calculator/",
   optimizeDeps: {
     exclude: ["lucide-react"],
   },
