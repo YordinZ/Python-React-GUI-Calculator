@@ -24,7 +24,7 @@ function App() {
             <div className="flex gap-3">
               {/* INICIO */}
               <a
-                href="https://yordinz.github.io/PORTFOLIO/#projects"
+                href="https://yordinz.github.io/PORTFOLIO/"
                 className="flex items-center gap-2 px-6 py-2.5 bg-[#1e2435] hover:bg-[#2a3247] text-white rounded-lg transition-all duration-200 hover:scale-105 active:scale-95"
               >
                 <Home size={18} />
